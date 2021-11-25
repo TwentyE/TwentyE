@@ -23,5 +23,4 @@
 
 
 <a>Since I have stress with school stuff it takes me a long time to get better at programming...</a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=twentye&show_icons=true&locale=en&layout=compact" alt="twentye" /></p>
 
